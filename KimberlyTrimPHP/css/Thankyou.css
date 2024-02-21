@@ -1,0 +1,25 @@
+span{
+    color: #4b3242;
+    font-size: 30px;
+    margin: 100px 415px;
+}
+#border{
+    margin-left: 365px;
+    margin-bottom: 20px;
+    border: #4b3242 1px solid;
+    width: 470px;
+    float: left;
+}
+#left{
+    padding: 20px;
+    float: left;
+}
+#center{
+    padding: 20px;
+    float: left;
+}
+#in{
+    margin: 10px 460px;
+    color: #4b3242;
+    font-size: 25px;
+}

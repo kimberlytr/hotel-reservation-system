@@ -1,0 +1,47 @@
+#border{
+    margin-left: 50px;
+    border: #d4bc9b 1px solid;
+    margin-bottom: 20px;
+    width: 470px;
+    float: left;
+}
+#left{
+    padding: 20px;
+    float: left;
+}
+#submit{
+    width: 100px;
+    height: 40px;
+    background-color: #4b3242;
+    border-radius: 10px;
+    line-height: 40px;
+}
+#center{
+    padding: 20px;
+    float: left;
+}
+#submit a{
+    color: white;
+    font-size: 18px;
+    margin-left: 20px;
+
+}
+#empty{
+    border: #d4bc9b 1px solid;
+    color: #d4bc9b;
+}
+#right{
+    width: 350px;
+    margin: 0 50px;
+    float: right;
+}
+h1{
+    color: #d4bc9b;
+    font-size: 35px;
+}
+#right img{
+    width: 350px;
+}
+#right hr{
+    border: #d4bc9b 1px solid;
+}

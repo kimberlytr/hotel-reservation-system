@@ -1,0 +1,113 @@
+body{
+    padding: 0;
+    max-width: 1200px;
+    margin: auto;
+    align-items: flex-end;
+}
+a{
+    color: #4b3242;
+    text-decoration: none;
+}
+.main_logo{
+    border-top: 4px solid #4b3242;
+    width: auto;
+}
+.logo{
+    float: left;
+    margin-left: 8%;
+    height: 80px;
+    width: 80px;
+}
+#hotel_name{
+    float: left;
+    width: 200px;
+    color: #4b3242;
+    font-size: 22px;
+    height: 80px;
+    line-height: 80px;
+}
+
+.Book_Now_Top{
+    color: white;
+    font-size: 25px;
+    margin: 0 auto;
+}
+#top{
+    float: right;
+    width: 120px;
+    height: 50px;
+    line-height: 50px;
+    background-color: #4b3242;
+    margin-right: 80px;
+    margin-top: 12px;
+}
+.hr_1{
+    width: 90%;
+    height: 1px;
+    background-color: #4b3242;
+    margin: 0 auto;
+    font-size: 12px;
+}
+.top_nav{
+    width: 100%;
+    font-size: 14px;
+    height: 40px;
+    line-height: 28px;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 0;
+}
+.nav_rooms{
+    float: left;
+    margin-left: 18%;
+}
+.nav_dinning {
+    float: left;
+    margin-left: 10%;
+}
+.nav_facilities {
+    float: left;
+    margin-left: 10%;
+}
+.nav_location{
+    float: left;
+    margin-left: 10%;
+}
+
+strong{
+    color: #4b3242;
+    font-size: 35px;
+}
+
+.foot{
+    background-color: #f3ebf0;
+    overflow: auto;
+    align-items: flex-end;
+}
+.contact{
+    float: left;
+    margin-left: 18%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+.legal{
+    float: left;
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-size: 17px;
+}
+.payment_logo{
+    float: right;
+    margin-right: 15%;
+    margin-top: 63px;
+}
+#master{
+    margin-left: 15px;
+}
+
+#Last{
+    text-align: center;
+    height: 100px;
+    line-height: 100px;
+}

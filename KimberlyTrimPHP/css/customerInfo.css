@@ -1,0 +1,45 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+}
+img{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+#top h1{
+    width: 1150px;
+    float: left;
+    color: #4b3242;
+    margin-left: 10px;
+}
+aside em{
+    color: #4b3242;
+}
+aside a{
+    text-decoration: none;
+    color: #4b3242;
+    border: 1px #4b3242 solid;
+}
+hr{
+    background-color: #f3ebf0;
+    height: 2px;
+}
+table, th, td{
+    border: #4b3242 1px solid;
+}
+.bottom{
+    margin: 0;
+}
+.input{
+    width: 95px;
+    background-color: #4b3242;
+    color: #f3ebf0;
+}
+
+
+footer p{
+    float: right;
+    color: #4b3242;
+    font-size: 20px;
+}

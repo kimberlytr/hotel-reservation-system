@@ -1,0 +1,42 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+}
+img{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+header h1{
+    width: 1120px;
+    float: left;
+    color: #4e4a35;
+    margin-left: 10px;
+}
+em{
+    color: #4b3242;
+}
+header{
+    width: 1200px;
+}
+hr{
+    background-color: #f3ebf0;
+    height: 2px;
+
+}
+#RM{
+    text-decoration: none;
+    border: #7e7467 1px solid;
+    color: #a0927f;
+}
+#submit{
+    background-color: #f3ebf0;
+    color:#4b3242;
+    width: 100px;
+    height: 23px;
+}
+footer p{
+    float: right;
+    color: #4b3242;
+    font-size: 20px;
+}

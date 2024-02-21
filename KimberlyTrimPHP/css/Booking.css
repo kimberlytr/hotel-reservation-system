@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#left{
+    width: 700px;
+    float: left;
+    margin: 30px 10px;
+    padding: 40px;
+    border-right: 2px solid #4b3242;
+}
+
+#left p{
+    font-size: 30px;
+    color: #4b3242;
+}
+
+#left hr{
+    height: 2px;
+    background-color: #f3ebf0;
+}
+
+#submit_booking{
+    background-color: #f3ebf0;
+    margin-top: 40px;
+    color: 4b3242;
+}
+
+#left input{
+    width: 370px;
+    height: 37px;
+}
+
+#right{
+    width: 350px;
+    height: 1000px;
+    background-color: #f3ebf0;
+    float: right;
+    margin: 55px 30px 0 15px;
+}
+#right img{
+    width: 350px;
+    height: 900px;
+    margin-top: 50px;
+}
+
+#right p{
+    margin-top: 5px;
+}
+
+#select{
+    margin-left: 55px;
+}

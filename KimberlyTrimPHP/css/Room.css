@@ -1,0 +1,56 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.Rooms, .Suites{
+    background-color: #4b3242;
+    width: 570px;
+    height: 532px;
+    margin: 15px;
+}
+.Rooms{
+    float: left;
+}
+.Suites{
+    float: right;
+}
+
+.Rooms img, .Suites img{
+    width: 570px;
+}
+.room_management{
+    float: right;
+    height: 532px;
+    width: 129px;
+    margin: 15px;
+}
+.room_name{
+    font-size: 22px;
+    margin: 0 0 10px;
+}
+.r_des{
+    padding: 20px;
+}
+.r_book_now{
+    background-color: #dfd5db;
+    height: 48px;
+    line-height: 48px;
+    margin-top: 20px;
+}
+.r_book_now a{
+    margin: 0 40%;
+    color: #f3ebf0;
+}
+.price{
+    color: #000;
+    font-size: 20px;
+}
+input[type=submit]{
+    border: none;
+    color: #f3ebf0;
+    background-color: #4b3242;
+    z-index: 1;
+    width: 530px;
+    font-size: 18px;
+}

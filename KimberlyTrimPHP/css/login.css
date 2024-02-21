@@ -1,0 +1,31 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+}
+img{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+#top h1{
+    width: 1120px;
+    float: left;
+    color: #4b3242;
+    margin-left: 10px;
+
+}
+hr{
+    background-color: #f3ebf0;
+    height: 2px;
+}
+#submit{
+    background-color: #f3ebf0;
+    color: 4b3242;
+    width: 55px;
+    height: 23px;
+}
+footer p{
+    float: right;
+    color: #4b3242;
+    font-size: 20px;
+}

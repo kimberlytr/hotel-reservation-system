@@ -1,0 +1,37 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+}
+img{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+header h1{
+    width: 1120px;
+    float: left;
+    color: #4b3242;
+    margin-left: 10px;
+}
+em{
+    color: #4b3242;
+}
+hr{
+    background-color: #f3ebf0;
+    height: 2px;
+
+}
+#submit{
+    background-color: #f3ebf0;
+    color: #4b3242;
+}
+#ci{
+    border: #4b3242 1px solid;
+    color: #4b3242;
+    text-decoration: none;
+}
+footer p{
+    float: right;
+    color: #4b3242;
+    font-size: 20px;
+}

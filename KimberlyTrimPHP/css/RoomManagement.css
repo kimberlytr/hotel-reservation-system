@@ -1,0 +1,44 @@
+body{
+    max-width: 1200px;
+    margin: auto;
+}
+img{
+    width: 70px;
+    height: 70px;
+    float: left;
+}
+#top h1{
+    width: 1050px;
+    float: left;
+    color: #4b3242;
+    margin-left: 10px;
+}
+aside em{
+    color: #4b3242;
+}
+aside a{
+    text-decoration: none;
+    color: #4b3242;
+    border: 1px #4b3242 solid;
+}
+hr{
+    background-color: #f3ebf0;
+    height: 2px;
+}
+#delete{
+    background-color: #f3ebf0;
+    color:#4b3242;
+}
+section table{
+    border: 1px solid;
+}
+#change{
+    text-decoration: none;
+    color: #291d25;
+    border: #f3ebf0 1px solid;
+}
+footer p{
+    float: right;
+    color: #4b3242;
+    font-size: 20px;
+}
